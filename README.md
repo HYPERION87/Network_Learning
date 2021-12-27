@@ -2,10 +2,10 @@
 Network+ Learning <br/>
 Hello, My name is Sean Reilly and this is my Network+ journey.<br/>
 • Protocols and ports
-- SSH 22
-- DNS 53
-- SMTP 25
-- SFTP 22
+- SSH 22          (Secure Shell Research Complete)
+- DNS 53          (Domain Name Service Research Complete)
+- SMTP 25         (Simple Mail Transfer Protocol Research Complete)
+- SFTP 22         (Secure File Transfer Protocol Research Complete)
 - FTP 20, 21
 - TFTP 69
 - TELNET 23
